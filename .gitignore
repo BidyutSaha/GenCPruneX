@@ -1,0 +1,20 @@
+# Ignore the following folders
+model_logs/
+TestData/
+settings/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore other common Python artifacts
+*.egg-info/
+*.eggs/
+*.log
+*.pot
+*.pyc
+*.pyo
+.DS_Store
+*.sqlite3
+*.idea/
+*.vscode/
