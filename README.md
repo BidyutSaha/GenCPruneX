@@ -56,6 +56,8 @@ For more detailed information, you can read our full paper:
    ```bash
    pip install -r requirements.txt
 
+**Note:** The recommended Python version for this project is 3.8.19
+
 <h2 id="dataset">📊 Dataset</h2>
 
 
