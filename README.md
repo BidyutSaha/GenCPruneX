@@ -11,11 +11,11 @@
   <p><em>Fig. 1 : Conceptual Diagram of GenCPruneX</em></p>
 </div>
 
-<!-- ## 📄 Paper Link
+## 📄 Paper Link
 
 For more detailed information, you can read our full paper:
 
-[TinyTNAS: GPU-Free, Time-Bound, Hardware-Aware Neural Architecture Search for TinyML Time Series Classification](https://arxiv.org/abs/2408.16535) -->
+[GenCPruneX: Adaptive Channel-wise Pruning for Efficient TinyML Deployment with Genetic Multi-Objective Optimization](https://ieeexplore.ieee.org/document/10885634) 
 
 
 
@@ -232,19 +232,21 @@ This project is licensed under the MIT License with a Non-Commercial Clause. The
 For more details, see the [LICENSE](LICENSE) file.
 
 
-<!-- <h2 id="citation">📄 Citation</h2>
+<h2 id="citation">📄 Citation</h2>
 
 If you find this project useful, we kindly ask you to cite our paper:
 
-    @misc{saha2024tinytnasgpufreetimeboundhardwareaware,
-          title={TinyTNAS: GPU-Free, Time-Bound, Hardware-Aware Neural Architecture Search for TinyML Time Series Classification}, 
-          author={Bidyut Saha and Riya Samanta and Soumya K. Ghosh and Ram Babu Roy},
-          year={2024},
-          eprint={2408.16535},
-          archivePrefix={arXiv},
-          primaryClass={cs.LG},
-          url={https://arxiv.org/abs/2408.16535}, 
-    } -->
+   @INPROCEEDINGS{10885634,
+  author={Saha, Bidyut and Samanta, Riya and Ghosh, Soumya K. and Babu Roy, Ram},
+  booktitle={2025 17th International Conference on COMmunication Systems and NETworks (COMSNETS)}, 
+  title={GenCPruneX: Adaptive Channel-wise Pruning for Efficient TinyML Deployment with Genetic Multi-Objective Optimization}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={871-875},
+  keywords={Deep learning;Accuracy;Filters;Tiny machine learning;Neurons;Random access memory;Benchmark testing;Genetics;Flash memories;Optimization;Channel-wise Pruning;TinyML;Genetic Algorithm;Multi-Objective Optimization;Embedded AI;Hardware-Aware Optimization;Model Compression;Edge AI;Resource-Constrained Deep Learning},
+  doi={10.1109/COMSNETS63942.2025.10885634}}
+
 
 
 <h2 id="contact">📧 Contact</h2>
