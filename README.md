@@ -124,7 +124,7 @@ For more detailed information, you can read our full paper:
 
 
   ```python
-    from cprunex inport *
+    from cprunex import *
         
     # Load the Trained Model
     base_model = tf.keras.models.load_model("best_model.h5" )
@@ -137,7 +137,7 @@ For more detailed information, you can read our full paper:
 
 
   ```python
-    from cprunex inport *
+    from cprunex import *
         
     # Load the Trained Model
     base_model = tf.keras.models.load_model("best_model.h5" )
